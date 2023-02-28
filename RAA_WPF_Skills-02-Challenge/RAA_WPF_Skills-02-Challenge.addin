@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RAA_WPF_Skills-02-Challenge</Text>
+    <Description>Some description for RAA_WPF_Skills-02-Challenge</Description>
+    <Assembly>RAA_WPF_Skills_02_Challenge.dll</Assembly>
+    <FullClassName>RAA_WPF_Skills_02_Challenge.Command</FullClassName>
+    <ClientId>60606947-84b6-4ae8-9e0a-62eeb5ca2987</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RAA_WPF_Skills-02-Challenge</Name>
+    <Assembly>RAA_WPF_Skills_02_Challenge.dll</Assembly>
+    <FullClassName>RAA_WPF_Skills_02_Challenge.App</FullClassName>
+    <ClientId>64004f17-8c6a-4355-a7e2-805de8fec609</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
